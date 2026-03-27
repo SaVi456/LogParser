@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python generate_sample_logs.py -n 10000)",
+      "Bash(python main.py sample_logs/access.log)"
+    ]
+  }
+}
