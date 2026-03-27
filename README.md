@@ -4,6 +4,10 @@
 > An intelligent Apache / Nginx access log analyser with a rich terminal dashboard.
 
 ![CI](https://github.com/SaVi456/LogParser/actions/workflows/ci.yml/badge.svg)
+![Python](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Code style: ruff](https://img.shields.io/badge/code%20style-ruff-orange)
+![Built by Claude](https://img.shields.io/badge/built%20by-Claude%20(Anthropic)-blueviolet)
 
 ---
 
