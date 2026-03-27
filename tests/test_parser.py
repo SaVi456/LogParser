@@ -5,10 +5,7 @@
 # ============================================================
 
 import gzip
-import textwrap
-from pathlib import Path
 
-import pytest
 
 from log_parser.parser import LogEntry, _parse_bytes, _parse_line, parse_file, parse_stream
 from tests.conftest import (

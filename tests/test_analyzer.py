@@ -7,7 +7,7 @@
 import pytest
 from datetime import datetime, timedelta, timezone
 
-from log_parser.analyzer import Stats, analyze, format_bytes
+from log_parser.analyzer import analyze, format_bytes
 from log_parser.parser import LogEntry
 
 
